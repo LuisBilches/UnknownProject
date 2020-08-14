@@ -11,3 +11,5 @@ else if (student.grade  >= 60 && student.grade <= 69) {
 else {
         console.log(student.name + " failed.")
 }
+
+//Now it's ready for use!
