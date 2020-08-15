@@ -13,4 +13,3 @@ else {
 }
 
 //Now it's ready for use!
-//Testing
